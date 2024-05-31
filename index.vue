@@ -35,7 +35,6 @@
         <vxe-table-column :field="`weekDataList.${item}.invAgeDays270`" title="270+ 天" min-width="100" />
         <vxe-table-column :field="`weekDataList.${item}.lastWeekSales`" title="上周销量" min-width="100" />
         <vxe-table-column :field="`weekDataList.${item}.lastWeekSales`" title="上周销量" min-width="100" />
-        <vxe-table-column :field="`weekDataList.${item}.lastWeekSales`" title="上周销量" min-width="100" />
         <vxe-table-column :field="`weekDataList.${item}.fbaAvailableReserved`" title="FBA available+ reserved" min-width="100" />
       </vxe-colgroup>
     </vxe-table>
