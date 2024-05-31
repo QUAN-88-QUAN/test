@@ -27,6 +27,7 @@
         <vxe-table-column :field="`weekDataList.${item}.invAgeDays271`" title="271-365 天" min-width="100" />
         <vxe-table-column :field="`weekDataList.${item}.invAgeDays271`" title="271-365 天" min-width="100" />
         <vxe-table-column :field="`weekDataList.${item}.invAgeDays365`" title="365+ 天" min-width="100" />
+        <vxe-table-column :field="`weekDataList.${item}.invAgeDays365`" title="365+ 天" min-width="100" />
         <vxe-table-column :field="`weekDataList.${item}.invAgeDays180`" title="180+ 天" min-width="100" />
         <vxe-table-column :field="`weekDataList.${item}.invAgeDays270`" title="270+ 天" min-width="100" />
         <vxe-table-column :field="`weekDataList.${item}.lastWeekSales`" title="上周销量" min-width="100" />
