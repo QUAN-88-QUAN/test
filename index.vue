@@ -24,6 +24,7 @@
       <vxe-table-column field="fbaAvailableReserved" title="FBA available+ reserved" min-width="110" sortable />
       <vxe-colgroup v-for="item in subTableHeader" :key="item" :title="item">
         <vxe-table-column :field="`weekDataList.${item}.invAgeDays181`" title="181-270 天" min-width="100" />
+        <vxe-table-column :field="`weekDataList.${item}.invAgeDays181`" title="181-270 天" min-width="100" />
         <vxe-table-column :field="`weekDataList.${item}.invAgeDays271`" title="271-365 天" min-width="100" />
         <vxe-table-column :field="`weekDataList.${item}.invAgeDays271`" title="271-365 天" min-width="100" />
         <vxe-table-column :field="`weekDataList.${item}.invAgeDays365`" title="365+ 天" min-width="100" />
