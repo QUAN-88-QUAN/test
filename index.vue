@@ -19,7 +19,6 @@
       <vxe-table-column field="salesLastYear" title="去年年销" min-width="100" sortable />
       <vxe-table-column field="salesLastMonth" title="上月销量" min-width="100" sortable />
       <vxe-table-column field="salesAvg30" title="近30天日均销量" min-width="100" sortable />
-      <vxe-table-column field="salesAvg30" title="近30天日均销量" min-width="100" sortable />
       <vxe-table-column field="salesTotal30" title="近30天总销量" min-width="100" sortable />
       <vxe-table-column field="fbaInbound" title="FBA inbound" min-width="100" sortable />
       <vxe-table-column field="fbaAvailableReserved" title="FBA available+ reserved" min-width="110" sortable />
